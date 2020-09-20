@@ -4,6 +4,8 @@ baseurl: /hamrobooks # Github repo name
 #page title
 page_title: "Hamro Books" # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
+keywords: nepal school books, grade 10 books nepal, nepal grade 9 books, see books nepal
+
 # App Info
 # ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
@@ -17,7 +19,7 @@ app_icon: assets/appicon.png # Automatically populates if not set and if iOS app
 app_name: Hamro Books # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 # app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: Grade 1 to Grade 10 books of Nepal in single application. You can save the books offline and read anywhere.
-
+featured_image: assets/hamrobooks.png
 enable_smart_app_banner: false # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
